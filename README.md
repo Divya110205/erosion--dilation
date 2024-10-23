@@ -1,4 +1,4 @@
-# Implementation-of-Erosion-and-Dilation
+#  Ex 9 - Implementation of Erosion and Dilation
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
 ## Software Required
@@ -56,7 +56,8 @@ cv2.destroyAllWindows()
 
 
 ### Display the Dilated Image
-![Uploading Screenshot 2024-10-21 161556.png…]()
+![Screenshot 2024-10-21 161556](https://github.com/user-attachments/assets/45c080ee-dc8a-48d0-822f-9b9f8be6f249)
+
 
 
 ## Result
